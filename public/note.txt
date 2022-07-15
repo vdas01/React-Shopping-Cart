@@ -1,0 +1,3 @@
+Npm used:-  
+1)react-router-dom:- for creating router
+2)faker:- api for creating fake data
